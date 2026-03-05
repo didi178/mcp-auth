@@ -85,7 +85,7 @@ npm or yarn
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/nexus-registry
+git clone https://github.com/didi178/mcp-auth
 cd nexus-registry
 npm install
 ```
